@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "_duplicated-code"
+name = "duplicated-code"
 version = "0.1.0"
