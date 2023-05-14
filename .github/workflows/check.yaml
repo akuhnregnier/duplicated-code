@@ -3,7 +3,7 @@ on:
   push:
     branches:
     - main
-name: Check
+name: Lint
 jobs:
   check:
     name: Check
